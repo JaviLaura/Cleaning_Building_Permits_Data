@@ -1,1 +1,2 @@
 # Cleaning_Building_Permits_Data
+#"A building permit is an official approval document issued by a governmental agency that allows you or your contractor to proceed with a construction or remodeling project on one's property." You've been given over 200 thousand records containing information about building permits in San Francisco between 2013 and 2018. Unfortunately, some of the data is missing! Let's clean up this dataset!
